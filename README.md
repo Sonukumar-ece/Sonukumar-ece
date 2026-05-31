@@ -33,6 +33,5 @@
 ## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/sonu-kumar-482a79275
-* Email: [sonukumar800040@gmail.com](mailto:sonukumar800040@gmail.com
-- ⚡ Fun fact: ...
--->
+* Email:[sonukumar800040@gmail.com](mailto:sonukumar800040@gmail.com)
+
