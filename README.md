@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sonu Kumar 👋
 
-<!--
-**Sonukumar-ece/Sonukumar-ece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student in Electronics and Communication Engineering at NIT Arunachal Pradesh
 
-Here are some ideas to get you started:
+💡 Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+* Analog IC Design
+* Embedded Systems
+* VLSI
+* Circuit Simulation
+
+🔧 Technical Skills:
+
+* Cadence Virtuoso
+* LTspice
+* Arduino
+* Embedded C
+* Google Earth Engine
+* QGIS
+
+## Projects
+
+* PMOS-Based LDO Voltage Regulator
+* Arduino-Based Gas & Smoke Detection System
+* NDVI Vegetation Analysis
+* Document Signature Application
+
+## Internship Experience
+
+* Remote Sensing Intern – India Space Academy
+* Web Development Intern – Labmentix Pvt. Ltd.
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/sonu-kumar-482a79275
+* Email: [sonukumar800040@gmail.com](mailto:sonukumar800040@gmail.com
 - ⚡ Fun fact: ...
 -->
